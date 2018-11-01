@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: e202313a6eccb494fbe59a49f384ef24
+timeCreated: 1530180471
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: simplehit_0
+    21300002: simplehit_1
+    21300004: simplehit_2
+    21300006: simplehit_3
+    21300008: simplehit_4
+    21300010: simplehit_5
+    21300012: simplehit_6
+    21300014: simplehit_7
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: simplehit_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 25
+        height: 64
+      alignment: 9
+      pivot: {x: 0.6289035, y: 0.004057265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simplehit_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 0
+        width: 40
+        height: 64
+      alignment: 9
+      pivot: {x: 0.9191755, y: 0.0070378785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simplehit_2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 60
+        height: 63
+      alignment: 9
+      pivot: {x: 0.8793508, y: 0.004355918}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simplehit_3
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 0
+        width: 59
+        height: 61
+      alignment: 9
+      pivot: {x: 0.8761703, y: 0.0060316557}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simplehit_4
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 0
+        width: 63
+        height: 60
+      alignment: 9
+      pivot: {x: 0.8387868, y: 0.0065738345}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simplehit_5
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 0
+        width: 58
+        height: 60
+      alignment: 9
+      pivot: {x: 0.87497526, y: 0.0058988333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simplehit_6
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 52
+        height: 64
+      alignment: 9
+      pivot: {x: 0.87618434, y: 0.0051394366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: simplehit_7
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 0
+        width: 21
+        height: 62
+      alignment: 9
+      pivot: {x: 0.78735936, y: 0.0074665686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

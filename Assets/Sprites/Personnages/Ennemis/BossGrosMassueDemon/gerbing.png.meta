@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: a53684542d9a7534a8c2c0b9418bdd85
+timeCreated: 1530905849
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: gerbing_0
+    21300002: gerbing_1
+    21300004: gerbing_2
+    21300006: gerbing_3
+    21300008: gerbing_4
+    21300010: gerbing_5
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gerbing_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 72
+        height: 61
+      alignment: 9
+      pivot: {x: 0.95950156, y: 0.0052638473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gerbing_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 0
+        width: 81
+        height: 61
+      alignment: 9
+      pivot: {x: 0.9603995, y: 0.0047086473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gerbing_2
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 0
+        width: 80
+        height: 61
+      alignment: 9
+      pivot: {x: 0.9635731, y: 0.004375865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gerbing_3
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 0
+        width: 79
+        height: 61
+      alignment: 9
+      pivot: {x: 0.9643385, y: 0.0039039}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gerbing_4
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 0
+        width: 83
+        height: 61
+      alignment: 9
+      pivot: {x: 0.96385026, y: 0.0049582985}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gerbing_5
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 0
+        width: 83
+        height: 61
+      alignment: 9
+      pivot: {x: 0.963801, y: 0.00389261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

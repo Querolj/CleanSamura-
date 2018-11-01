@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: 8f58a667a86021249a9c41dae20d8ef9
+timeCreated: 1529935977
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dash_slipping_1
+    21300002: dash_slipping_2
+    21300004: dash_slipping_3
+    21300006: dash_slipping_4
+    21300008: dash_slipping_5
+    21300010: dash_slipping_6
+    21300012: dash_slipping_7
+    21300014: dash_slipping_9
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dash_slipping_1
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 46
+        width: 43
+        height: 15
+      alignment: 9
+      pivot: {x: 0.32279044, y: 0.009090944}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dash_slipping_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 36
+        width: 80
+        height: 17
+      alignment: 9
+      pivot: {x: 0.47278252, y: 0.013288834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dash_slipping_3
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 37
+        height: 39
+      alignment: 9
+      pivot: {x: 0.3716343, y: 0.007670195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dash_slipping_4
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 39
+        height: 39
+      alignment: 9
+      pivot: {x: 0.35455438, y: 0.007006558}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dash_slipping_5
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 37
+        height: 39
+      alignment: 9
+      pivot: {x: 0.37245116, y: 0.0059609786}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dash_slipping_6
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 0
+        width: 42
+        height: 30
+      alignment: 9
+      pivot: {x: 0.25761595, y: 0.005747226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dash_slipping_7
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 50
+        height: 25
+      alignment: 9
+      pivot: {x: 0.31728148, y: 0.008541409}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dash_slipping_9
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 0
+        width: 79
+        height: 31
+      alignment: 9
+      pivot: {x: 0.3898524, y: 0.0078158425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
